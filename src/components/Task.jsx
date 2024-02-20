@@ -17,7 +17,7 @@ export const Task = (props) => {
     // git branch -M main
     // git remote add origin https://github.com/baatar2025/Todo.git
     // git push -u origin main
-console.log('hi')
+console.log('hello')
     const statuValues=['Todo','Inprogress','Stuck','Done']
     const levelValues=['Low','Meduim','High']
     function Add(){
