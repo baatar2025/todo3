@@ -5,6 +5,7 @@ import { Task } from "@/components/Task";
 const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
+  console.log("eadgarge")
 
   return (
     <>
